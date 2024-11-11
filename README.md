@@ -1,7 +1,7 @@
 - Salve👋, eu sou o Estevam Martins.🫡
 - Estou de olho em nanotecnologia!👀 
 - Atualmente, estou aprendendo back-end e front-end 🌱.
-- Estou procurando colaborar em algumas empresas!
+- Estou procurando colaborar com algumas empresas!
 - Sou pro-player em avaliar games.⚡
 
 <!---
