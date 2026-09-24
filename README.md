@@ -1,8 +1,8 @@
-- Salve👋, eu sou o Estevam Martins.🫡
-- Estou de olho em nanotecnologia!👀 
-- Atualmente, estou aprendendo back-end e front-end 🌱.
+- Olá, eu sou o Estevam Martins.🫡
+- Estou de olho em como funciona Dados! 
+- Atualmente, estou participando de estágios.
 - Estou procurando colaborar com algumas empresas!
-- Sou pro-player em avaliar games.⚡
+
 
 <!---
 Estevam007/Estevam007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
